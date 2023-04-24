@@ -14,7 +14,6 @@ The game uses event listeners to detect when the user clicks on one of the icons
 
 
 
-![image](https://user-images.githubusercontent.com/130560789/233978868-250f36c1-33ba-422b-b718-89b61edb250d.png)
 ![image](https://user-images.githubusercontent.com/130560789/233979084-1d082668-3b67-4c08-bde3-23e2669a2e4c.png)
 ![image](https://user-images.githubusercontent.com/130560789/233979149-78aea9e1-ae82-46be-981e-cea3268a2f98.png)
 ![image](https://user-images.githubusercontent.com/130560789/233979194-3e4a5fc0-ed88-403c-9ea3-ea505d81cec7.png)
